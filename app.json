@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "project-79",
+    "slug": "snack-5b4545c0-ec28-4e89-a1d7-e989359ce936",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This is a Barter System App where the users can exchange some item with some user. You will know more by opening this project. So quickly open this project !!!!!!!!!!!!!!!!!!!"
+  }
+}
